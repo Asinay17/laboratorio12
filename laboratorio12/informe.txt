@@ -1,0 +1,7 @@
+¿Cómo puedo leer un archivo de texto en C++ y guardar los datos en un mapa?
+
+¿Cómo puedo buscar coincidencias exactas de preguntas en una base de datos usando C++?
+
+¿Cómo implemento una búsqueda por palabras clave?
+
+¿Cómo manejo el caso cuando no se encuentra una respuesta?
